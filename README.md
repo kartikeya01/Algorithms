@@ -1,2 +1,2 @@
 # Algorithms
-A collection of completed algorithm projects in C++
+A collection of completed algorithms projects in C++
