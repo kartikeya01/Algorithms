@@ -1,6 +1,3 @@
-# Algorithms
-A collection of completed algorithms projects in C++
-
 ## Project 1
 
 Write a **mergesort function which makes three recursive calls of length n/3** on an array of size n, and then merges three sorted arrays into one:
